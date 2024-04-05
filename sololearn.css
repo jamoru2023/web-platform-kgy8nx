@@ -1,0 +1,24 @@
+button {
+    background-color: #5e4caf;
+    color: white;     
+}
+p {
+    color:blue;
+
+}
+#p2 {
+    color: green;
+}
+h1 {
+    font-size: big;
+    color:red;
+    text-align:center;
+}
+nav a {
+    color: aqua;
+    background-color: blueviolet;
+}
+.alerta {
+    color: blue;
+    background-color: burlywood;
+}
